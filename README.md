@@ -1,1 +1,1 @@
-# homework-06: otus-bulk
+# otus homework #6 - bulk
